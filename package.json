@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Native Android news application with Jetpack Compose, Retrofit, Room, FCM, and AdMob integration.",
   "scripts": {
-    "build": "echo 'Android Studio Project compiled successfully'",
-    "dev": "echo 'Android Studio Project compiled successfully'"
+    "build": "bash gradlew assembleDebug && bash gradlew bundleRelease",
+    "dev": "bash gradlew assembleDebug"
   },
   "dependencies": {}
 }
