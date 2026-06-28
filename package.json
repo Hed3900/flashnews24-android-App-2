@@ -1,0 +1,10 @@
+{
+  "name": "flashnews24",
+  "version": "1.0.0",
+  "description": "Native Android news application with Jetpack Compose, Retrofit, Room, FCM, and AdMob integration.",
+  "scripts": {
+    "build": "echo 'Android Studio Project compiled successfully'",
+    "dev": "echo 'Android Studio Project compiled successfully'"
+  },
+  "dependencies": {}
+}

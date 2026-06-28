@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.FlashNews24" parent="android:Theme.Material.NoActionBar">
+        <!-- Status bar and navigation bar colors are set dynamically by Jetpack Compose theme -->
+    </style>
+</resources>
