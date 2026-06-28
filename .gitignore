@@ -6,3 +6,7 @@ coverage/
 *.log
 .env*
 !.env.example
+
+# Ensure Gradle wrapper JAR is tracked by Git
+!gradle/wrapper/gradle-wrapper.jar
+
